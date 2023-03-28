@@ -11,4 +11,4 @@
 
 **Ссылка**
 
-* [Ссылка на макет в Figma](https://motivityr.github.io/russian-travel/)
+* [Ссылка на проект](https://motivityr.github.io/russian-travel/)
