@@ -15,9 +15,3 @@
     row-gap: 25px;
   }
 }
-
-@media screen and (max-width: 320px) {
-  .place__text {
-    row-gap: 25px;
-  }
-}

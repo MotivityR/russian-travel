@@ -5,11 +5,11 @@
   line-height: 22px;
   color: white;
   opacity: 1;
-  transition: opacity 0.6s;
+  transition: opacity 0.3s;
 }
 
 .place__link:hover {
-  transition: all 0.5s linear;
+  transition: all 0.8s linear;
   opacity: 0.4;
 }
 
